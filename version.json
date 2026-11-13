@@ -1,5 +1,5 @@
 {
-  "version": "0.3.6",
-  "notes": "• Durchgängige Spring-Animation & Race-Condition-Fix bei großen Tab-Sprüngen\n• Automatische Sync-Prüfung ohne interaktive Abfrage\n• Signierter Release-Build (debuggable=false, JKS CN=snowfox-drbaum)",
+  "version": "0.3.7",
+  "notes": "Minigame Hub v0.3.7: Unterbrechbare Tab-Slider-Animationen mit sofortiger Reaktion ohne Klick-Verzögerung.",
   "apk_url": "https://raw.githubusercontent.com/snowfoxgame/MinigameHub-Updates/main/app.apk"
 }
