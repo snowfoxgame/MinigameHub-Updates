@@ -1,5 +1,5 @@
 {
-  "version": "0.3.0",
-  "notes": "• Update auf Version 0.3.0",
+  "version": "0.3.1",
+  "notes": "• Echter 120-Hz-Support für flüssigere Animationen\n• Weichere vertikale Scroll-Deceleration\n• Horizontales Tab-Swiping mit synchronem Pill-Slider & Wand-Bounce",
   "apk_url": "https://raw.githubusercontent.com/snowfoxgame/MinigameHub-Updates/main/app.apk"
 }
