@@ -1,5 +1,5 @@
 {
-  "version": "0.3.5",
-  "notes": "• Einheitlicher GitHub-Updater auch im App-Updates-Tab & Einstellungs-Badge\n• System-Back-Navigation & erhaltener Tab-Scroll-State (beyondViewportPageCount = 3)\n• Nicht-interaktive Update-Skripte (--yes / AUTO_FIX=1) & signierter Release-Build",
+  "version": "0.3.6",
+  "notes": "• Durchgängige Spring-Animation & Race-Condition-Fix bei großen Tab-Sprüngen\n• Automatische Sync-Prüfung ohne interaktive Abfrage\n• Signierter Release-Build (debuggable=false, JKS CN=snowfox-drbaum)",
   "apk_url": "https://raw.githubusercontent.com/snowfoxgame/MinigameHub-Updates/main/app.apk"
 }
