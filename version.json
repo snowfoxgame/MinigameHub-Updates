@@ -1,5 +1,5 @@
 {
-  "version": "0.3.3",
-  "notes": "• Dynamische Adaptive App-Icons passend zu allen 6 Themes (Standard, Halloween, Winter, Christmas, Summer, RGB)\n• Automatischer Homescreen-Icon-Wechsel per activity-alias inkl. Hinweis\n• Signierter Release-Build (debuggable=false)",
+  "version": "0.3.4",
+  "notes": "• Dynamische Adaptive App-Icons passend zu allen 6 Themes (Standard, Halloween, Winter, Christmas, Summer, RGB)\n• Automatischer Homescreen-Icon-Wechsel per activity-alias inkl. Hinweis\n• Signierter Release-Build (debuggable=false) & verbesserte CDN-Sync-Prüfung",
   "apk_url": "https://raw.githubusercontent.com/snowfoxgame/MinigameHub-Updates/main/app.apk"
 }
