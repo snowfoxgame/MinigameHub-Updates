@@ -1,5 +1,5 @@
 {
-  "version": "0.3.2",
-  "notes": "• Signierter Release-Build (debuggable=false, JKS CN=snowfox-drbaum)\n• Echter 120-Hz-Support & weichere Scroll-Deceleration\n• Horizontales Tab-Swiping mit synchronem Pill-Slider & Wand-Bounce",
+  "version": "0.3.3",
+  "notes": "• Dynamische Adaptive App-Icons passend zu allen 6 Themes (Standard, Halloween, Winter, Christmas, Summer, RGB)\n• Automatischer Homescreen-Icon-Wechsel per activity-alias inkl. Hinweis\n• Signierter Release-Build (debuggable=false)",
   "apk_url": "https://raw.githubusercontent.com/snowfoxgame/MinigameHub-Updates/main/app.apk"
 }
