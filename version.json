@@ -1,5 +1,5 @@
 {
-  "version": "0.3.8",
-  "notes": "Minigame Hub v0.3.8: Durchgehende, entkoppelte Pill-Slider-Animation mit distanzabhängiger Geschwindigkeit (220/300/360 ms) ohne Teleportieren.",
+  "version": "0.3.9",
+  "notes": "Minigame Hub v0.3.9: Fix für Race-Conditions beim schnellen Springen über mehrere Tabs (Single Source of Truth für Ziel-Tab & sauberes Abbrechen laufender Animationen).",
   "apk_url": "https://raw.githubusercontent.com/snowfoxgame/MinigameHub-Updates/main/app.apk"
 }
